@@ -1,0 +1,10 @@
+# So entra no repositorio o que esta liberado abaixo.
+*
+!.gitignore
+!README.md
+!app.py
+!build.bat
+!icone.ico
+!icone.png
+!padrao/
+!padrao/**
